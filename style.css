@@ -18,7 +18,7 @@ html,body{
   text-transform: uppercase;
   background: linear-gradient(135deg, #0eaeb9 0%, #08da58 25%, #19290f 50%, #460240 75%, #04fc80 100%);
   background-size: 400%;
-  background-clip: text; /* For WebKit-based browsers */
+  background-clip: text;
   -webkit-text-fill-color: transparent; 
   animation: animate 10s linear infinite;
 }
